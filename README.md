@@ -1,6 +1,6 @@
 # dotfiles
 
-Install packages (Archlinux): ```yay -S alacritty alsa-utils autorandr betterlockscreen blueberry brightnessctl bspwm btop cava discord dmenu dunst gnome-themes-extra lxappearance maim neofetch neovim network-manager-applet nitrogen pacman-contrib papirus-icon-theme pavucontrol picom-pijulius-git playerctl polybar rofi sddm sof-firmware sxhkd ttf-font-awesome xclip xdo xorg-xinput yad yay zathura zathura-pdf-mupdf```
+Install packages (Archlinux): `yay -S alacritty alsa-utils autorandr betterlockscreen blueberry brightnessctl bspwm btop cava discord dmenu dunst gnome-themes-extra lxappearance maim neofetch neovim network-manager-applet nitrogen pacman-contrib papirus-icon-theme pavucontrol picom-pijulius-git playerctl polybar rofi sddm sof-firmware sxhkd ttf-font-awesome xclip xdo xorg-xinput yad yay zathura zathura-pdf-mupdf`
 
 # screenshots
 ![screenshot1](https://raw.githubusercontent.com/arthurhawron/dotfiles/main/Pictures/Screenshots/SS1.png)
