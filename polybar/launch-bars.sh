@@ -11,6 +11,9 @@ polybar eDP-1-Left & polybar eDP-1-Center & polybar eDP-1-Right & polybar eDP-1-
 
 
 if [[ $(xrandr -q | grep 'HDMI-1 connected') ]]; then
-	polybar HDMI-1 &
+	polybar HDMI-1-Left & polybar HDMI-1-Center & polybar HDMI-1-Right & polybar HDMI-1-Bottom-Left & polybar HDMI-1-Bottom-Center & polybar HDMI-1-Bottom-Right &
+
+
+
 fi
 
